@@ -1,0 +1,1 @@
+Esse repositório foi apenas um teste realizado para testar as funcionalidades do GIT e consolidar o meu primeiro push
